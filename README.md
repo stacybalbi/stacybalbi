@@ -1,1 +1,1 @@
- <img src="https://s1.ppllstatics.com/lasprovincias/www/multimedia/202112/12/media/cortadas/gatos-kb2-U160232243326NVC-1248x770@Las%20Provincias.jpg" alt="">
+ <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-xIwEYrvHUY9KcUlom1rp9hROWUU7F0bxuv7JwohsyxrMndu7Udf0Oteeu6-veYziDVJvpaFAhxhGxrv8MyD_j5KQWX6Q=w1920-h937" alt="">
