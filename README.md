@@ -20,3 +20,5 @@
 </a>
 
 </p>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stacybalbi)](https://github.com/anuraghazra/github-readme-stats)
