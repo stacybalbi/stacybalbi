@@ -8,9 +8,3 @@
   <img src="https://profile-counter.glitch.me/stacybalbi/count.svg" />
 </p>
 
-<a href="https://github.com/stacybalbi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stacybalbi&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/stacybalbi/stacybalbi.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stacybalbi&repo=anuraghazra.github.io&theme=buefy" />
-</a>
