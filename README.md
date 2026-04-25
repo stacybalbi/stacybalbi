@@ -24,7 +24,6 @@
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stacybalbi&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=stacybalbi&theme=transparent&hide_border=true" />
 </p>
 
